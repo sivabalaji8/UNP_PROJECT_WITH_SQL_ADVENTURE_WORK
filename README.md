@@ -2,4 +2,4 @@
 
 In this project, I worked on the AdventureWorks dataset using SQL to analyze various aspects such as product categories, sales trends, order quantities, and region-wise performance. The project was successfully completed under the guidance of UNP (United Network of Professionals). I wrote multiple SQL queries to explore patterns, including identifying regions with the highest and lowest prices, determining hosts with the most listings, analyzing common room categories, and examining sales variation across territories. I utilized aggregate functions, filtering, sorting, and joins to extract meaningful insights from the dataset. This hands-on experience allowed me to work with real-world data, enhance my SQL skills, and develop a solid foundation in writing structured queries and interpreting analytical results in a practical, business-oriented manner.
 
-PROJECT FILE: https://drive.google.com/drive/folders/1Cv9mzgEDivyQ1q61JukUzgpqO6REhxvm
+PROJECT FILE: https://drive.google.com/file/d/1harK4RAtqMwN4J-xL3Xs2EDOhVBlvqMk/view?usp=drivesdk
